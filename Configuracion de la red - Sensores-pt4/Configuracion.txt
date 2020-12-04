@@ -1,0 +1,4 @@
+CapasOcultas: 2
+FuncionesDeActivaciones: coseno tangenteh bipolar
+Entradas: 3
+Salidas: 2

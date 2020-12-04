@@ -1,0 +1,4 @@
+CapasOcultas: 2
+FuncionesDeActivaciones: seno sigmoide lineal
+Entradas: 10
+Salidas: 1

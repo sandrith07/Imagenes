@@ -1,0 +1,4 @@
+CapasOcultas: 2
+FuncionesDeActivaciones: sigmoide tangenteh tangenteh
+Entradas: 2
+Salidas: 1

@@ -1,0 +1,4 @@
+CapasOcultas: 2
+FuncionesDeActivaciones: sigmoide sigmoide bipolar
+Entradas: 2
+Salidas: 2

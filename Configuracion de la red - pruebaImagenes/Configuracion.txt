@@ -1,0 +1,4 @@
+CapasOcultas: 2
+FuncionesDeActivaciones: sigmoide sigmoide lineal
+Entradas: 300
+Salidas: 2

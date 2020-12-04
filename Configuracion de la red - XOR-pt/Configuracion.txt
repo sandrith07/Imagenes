@@ -1,0 +1,4 @@
+CapasOcultas: 1
+FuncionesDeActivaciones: gauseana lineal
+Entradas: 2
+Salidas: 1
